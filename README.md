@@ -26,10 +26,4 @@ Git a été conçu pour être un système de contrôle de version distribué, ce
 ## Conclusion
 En conclusion, Git est un outil puissant pour la gestion des projets logiciels, mais il est important d'éviter les erreurs courantes lors de son utilisation dans un environnement d'équipe. En suivant les conseils décrits ci-dessus, vous pouvez vous assurer que votre équipe utilise Git de manière efficace et efficiente, et d'éviter les conflits et autres problèmes qui peuvent survenir lors du travail en équipe
 
-
-# Git-mistakes
-Avoiding common Git mistakes in a team environment
-## Intruduction
-Git is an incredibly powerful tool for managing software projects, but it can also be tricky to use in a team setting. In this article, we will explore five common mistakes that developers make when using Git in a team environment, and how to avoid them.
-
 ## Enjoy reading
